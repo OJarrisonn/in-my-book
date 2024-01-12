@@ -1,0 +1,19 @@
+{
+  "name": "in-my-book",
+  "version": "0.1.0",
+  "description": "In My Book is a website for taking notes and rating books you've read",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OJarrisonn/in-my-book.git"
+  },
+  "author": "Jorge Harrisonn <j.h.m.t.v.10@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OJarrisonn/in-my-book/issues"
+  },
+  "homepage": "https://github.com/OJarrisonn/in-my-book#readme"
+}
